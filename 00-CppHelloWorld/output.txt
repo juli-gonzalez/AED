@@ -1,0 +1,4 @@
+C:\Users\Gaming\Desktop\UTN\AyED-K1253\cmake-build-debug\AyED_K1253.exe
+Hello, World!
+
+Process finished with exit code 0
